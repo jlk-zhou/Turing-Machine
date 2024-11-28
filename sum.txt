@@ -1,0 +1,5 @@
+q1 1 R q1, q1 B 1 q2;
+q2 1 R q2, q2 B L q3;
+q3 1 B q3, q3 B L q4; 
+q4 1 B q4, q4 B L q5;
+q5 1 L q5, q5 B R q6
